@@ -1,0 +1,6 @@
+El juego del 5 mágico comienza con 100 créditos. 
+Cada partida cuesta un crédito.
+Si el usuario obtiene 1 cinco ganará 5 créditos, si obtiene 2 cincos ganará 25 y 
+si obtiene 3 cincos ganará 100 créditos. 
+La interfaz cuenta con tres dados que muestran números aleatórios generados del 0 al 9 
+y un botón para jugar. También aparece en todo momento cuántos créditos tiene el usuario.

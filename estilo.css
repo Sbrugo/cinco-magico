@@ -1,0 +1,33 @@
+body{
+    background-color: #121212;
+    color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input{
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    font-size: 24px;
+}
+button{
+    width: 55px;
+    height: 30px;
+    font-size: inherit;
+}
+p{
+    text-transform: uppercase;
+    margin-left: 10px;
+}
+
+h4{
+    text-transform: uppercase;
+}
+.puntaje{
+    display: flex;
+}
+.numero-cinco{
+    color:darkgoldenrod;
+}
